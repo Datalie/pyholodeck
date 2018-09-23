@@ -19,7 +19,7 @@ Simplest possible salt module::
 
   import salt
 
-  def hello()
+  def hello():
       return "hello world"
 
 
